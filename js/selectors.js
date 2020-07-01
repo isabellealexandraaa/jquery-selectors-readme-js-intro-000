@@ -1,5 +1,5 @@
 function paragraphSelector(){
-
+$('p')
 }
 
 function lastImageSelector() {
@@ -15,5 +15,5 @@ function divSelector() {
 }
 
 function firstListItem() {
-  
+
 }
