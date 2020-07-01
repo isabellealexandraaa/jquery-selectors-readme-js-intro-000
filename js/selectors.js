@@ -15,5 +15,5 @@ return $('.pics')
 }
 
 function firstListItem() {
-return $('ul li')
+return $('ul:pic-list')
 }
